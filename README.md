@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This site showcases my work, skills, and projects as I grow in my career as a web developer.
 
 ## 🖥 Live Demo
-You can view it here: [https://YOUR-USERNAME.github.io/portfolio](https://YOUR-USERNAME.github.io/portfolio)
+You can view it here: [https://eniiza.github.io/portfolio](https://eniiza.github.io/portfolio/)
 
 ## ✨ Features
 - Responsive design for desktop and mobile
@@ -20,7 +20,7 @@ You can view it here: [https://YOUR-USERNAME.github.io/portfolio](https://YOUR-U
 
 ## 📌 Future Plans
 - Add more projects
-- Include a blog or dev journal
+- Include a dev journal
 - Improve design and animations
 
 ---
